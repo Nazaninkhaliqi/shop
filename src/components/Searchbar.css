@@ -1,0 +1,11 @@
+
+div.searchbar >form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.searchbar > form>input{
+    margin-left: 10px;
+    padding: 5px;
+
+}

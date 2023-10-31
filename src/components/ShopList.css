@@ -1,0 +1,105 @@
+.new-products{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+.shop-List{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 40px;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+.shop-List .card{
+    background-color: #fff;
+    color: #333;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0 ,0.5);
+    transition: all 0.3s ease-in;
+    position: relative;
+}
+.shop-List  .card:hover{
+    transform: scale();
+}
+.shop-List .card h3{
+    color: #555;
+    margin-bottom: 2px;
+}
+.shop-List .card p {
+    color: #999;
+    font-size: 0.9em;
+}
+.shop-List .card img{
+    width: 280px;
+    height: 230px;
+    object-fit: contain;
+}
+.shop-List .card a{
+    text-decoration: none;
+    margin-left: 100px;
+    border: 1px solid  #999;
+    border-radius: 4px;
+    padding: 5px;
+    color: #555;
+}
+.shop-List .card button{
+    text-decoration: none;
+    margin-left: 12px;
+    border: 1px solid  #999;
+    border-radius: 4px;
+    padding: 8px;
+    background-color: white;
+}
+.shop-List> .card >.numb{
+    margin-left:9px;
+    
+}
+.shop-List .card a:hover{
+    color: #fff;
+    background-color:#999 ;
+}
+.shop-List .card button:hover{
+    color: #fff;
+    background-color:#999 ;
+}
+.shop-List .card div{
+    color: #555;
+    text-decoration: none;
+    display: block;
+    background-color: #e2e2e2;
+    font-size: 0.9em;
+    text-align: center;
+    width: 220px;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 5px 20px 20px;
+}
+/* dark mode */
+.shop-List .card.dark{
+   background-color: rgba(119, 118, 118, 0.39);
+}
+.shop-List .card.dark p{
+    color: #e2e2e280;
+}
+.shop-List .card.dark h3{
+       color: #e2e2e2;
+        
+}
+.shop-List .card.dark div{
+   background-color:rgba(211, 211, 211, 0.37);
+   color: #e2e2e2;
+}
+.shop-List .card.dark a{
+    background-color:rgba(211, 211, 211, 0.425);
+    color: #e2e2e2;
+}
+.shop-List .card.dark a:hover{
+    background-color:whitesmoke;
+    color: #555;
+}
+.shop-List .card.card.dark .numb{
+    margin-left:9px;
+    color: #e2e2e2;
+    
+}

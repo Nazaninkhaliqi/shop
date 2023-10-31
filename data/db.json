@@ -1,0 +1,89 @@
+
+{
+    "shop":[
+        {
+            "id":"1",
+            "img":"https://cdn.mobit.ir/get/mobit/brand/21/627b784386e57.webp?inline=1",
+            "title":"samsung",
+            "price":"$1,038.51",
+            "properties":[
+                "Brand: acer",
+                "Model Name: A315-24P-R7VH",
+                "Screen Size: 15.6 Inches",
+                "Color: Silver",
+                "CPU Model: Ryzen 3"
+            ],
+            "information":"Purposeful Design: Travel with ease and look great doing it with the Aspire's 3 thin, light design.Ready-to-Go Performance: The Aspire 3 is ready-to-go with the latest AMD Ryzen 3 7320U Processor with Radeon Graphics—ideal for the entire family, with performance and productivity at the core.Visibly Stunning: Experience sharp details and crisp colors on the 15.6 Full HD IPS display with 16:9 aspect ratio and narrow bezels."
+        },
+        {
+            "id":"2",
+            "img":"https://cdn.mobit.ir/get/mobit/brand/29/627b778e4dc5a.webp?inline=1",
+            "title":" lenovo",
+            "price":"$791.99",
+            "properties":[
+                "Brand: acer",
+                "Model Name: A315-24P-R7VH",
+                "Screen Size: 15.6 Inches",
+                "Color: Silver",
+                "CPU Model: Ryzen 3"
+            ],
+            "information":"Purposeful Design: Travel with ease and look great doing it with the Aspire's 3 thin, light design.Ready-to-Go Performance: The Aspire 3 is ready-to-go with the latest AMD Ryzen 3 7320U Processor with Radeon Graphics—ideal for the entire family, with performance and productivity at the core.Visibly Stunning: Experience sharp details and crisp colors on the 15.6 Full HD IPS display with 16:9 aspect ratio and narrow bezels."
+        },
+        {
+            "id":"3",
+            "img":"https://cdn.mobit.ir/get/mobit/brand/66/627b7887cb6a1.webp?inline=1",
+            "title":" Apple ",
+            "price":"$965.08",
+            "properties":[
+                "Brand: Apple",
+                "Model Name: MacBook Air",
+                "Screen Size: 15.3 Inches",
+                "Color: 15.3 Inches",
+                "CPU Model: Unknown"
+            ],
+            "information":"IMPRESSIVELY BIG, IMPOSSIBLY THIN — The 15-inch MacBook Air makes room for more of what you love with a spacious Liquid Retina display. The durable 100 percent recycled aluminum enclosure is strikingly thin and light.SUPERCHARGED BY M2 — Get more done faster with a powerful 8-core CPU, 10-core GPU, and up to 24GB of unified memory.SPACIOUS, BEAUTIFUL DISPLAY — The high-resolution, 15.3-inch Liquid Retina display features 500 nits of brightness, P3 wide color, and support for one billion colors for vibrant images and incredible detail. (The display on the 15-inch MacBook Air has rounded corners at the top. When measured as a standard rectangular shape, the screen is 15.3 inches diagonally; actual viewable area is less.)"
+        },
+        {
+            "id":"4",
+            "img":"https://cdn.mobit.ir/get/mobit/brand/1517/627b78a505f07.webp?inline=1",
+            "title":" LG",
+            "price":"$791.99",
+            "properties":[
+                "Brand: acer",
+                "Model Name: A315-24P-R7VH",
+                "Screen Size: 15.6 Inches",
+                "Color: Silver",
+                "CPU Model: Ryzen 3"
+            ],
+            "information":"Purposeful Design: Travel with ease and look great doing it with the Aspire's 3 thin, light design.Ready-to-Go Performance: The Aspire 3 is ready-to-go with the latest AMD Ryzen 3 7320U Processor with Radeon Graphics—ideal for the entire family, with performance and productivity at the core.Visibly Stunning: Experience sharp details and crisp colors on the 15.6 Full HD IPS display with 16:9 aspect ratio and narrow bezels."
+        },
+        {
+            "id":"5",
+            "img":"https://cdn.mobit.ir/get/mobit/brand/16/627b4d9da0856.webp?inline=1",
+            "title":" poco",
+            "price":"$791.99",
+            "properties":[
+                "Brand: acer",
+                "Model Name: A315-24P-R7VH",
+                "Screen Size: 15.6 Inches",
+                "Color: Silver",
+                "CPU Model: Ryzen 3"
+            ],
+            "information":"Purposeful Design: Travel with ease and look great doing it with the Aspire's 3 thin, light design.Ready-to-Go Performance: The Aspire 3 is ready-to-go with the latest AMD Ryzen 3 7320U Processor with Radeon Graphics—ideal for the entire family, with performance and productivity at the core.Visibly Stunning: Experience sharp details and crisp colors on the 15.6 Full HD IPS display with 16:9 aspect ratio and narrow bezels."
+        },
+        {
+            "id":"6",
+            "img":"https://cdn.mobit.ir/get/mobit/brand/18/627b77ee9f077.webp?inline=1",
+            "title":" acer13",
+            "price":"$791.99",
+            "properties":[
+                "Brand: acer",
+                "Model Name: A315-24P-R7VH",
+                "Screen Size: 15.6 Inches",
+                "Color: Silver",
+                "CPU Model: Ryzen 3"
+            ],
+            "information":"Purposeful Design: Travel with ease and look great doing it with the Aspire's 3 thin, light design.Ready-to-Go Performance: The Aspire 3 is ready-to-go with the latest AMD Ryzen 3 7320U Processor with Radeon Graphics—ideal for the entire family, with performance and productivity at the core.Visibly Stunning: Experience sharp details and crisp colors on the 15.6 Full HD IPS display with 16:9 aspect ratio and narrow bezels."
+        }
+    ]
+}

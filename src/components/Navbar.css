@@ -1,0 +1,70 @@
+.navbar{
+    background-color: #892760;
+    padding: 20px;
+    color: #fff;
+}
+.navbar nav{
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.navbar a.brand{
+    margin-right: auto;
+    color: #fff;
+    text-decoration: none;
+}
+.navbar a.Categories{
+    font-size: 10px;
+    padding: 5px;
+    left: 200px;
+    color: #fff;
+    position:absolute;
+    text-decoration: none;
+}
+.navbar a.SpecialOffer{
+    font-size: 10px;
+    padding: 5px;
+    left: 300px;
+    color: #fff;
+    position:absolute;
+    text-decoration: none;
+}
+.navbar a.About{
+    font-size: 10px;
+    padding: 5px;
+    left: 410px;
+    color: #fff;
+    position:absolute;
+    text-decoration: none;
+}
+.navbar a.Cart{
+    font-size: 20px;
+    padding: 5px;
+    left: 510px;
+    color: #fff;
+    position:absolute;
+    text-decoration: none;
+}
+.navbar a.About:hover{
+    color: lightgray;
+}
+.navbar a.SpecialOffer:hover{
+    color: lightgray;
+}
+.navbar a.Categories:hover{
+    color: lightgray;
+}
+.navbar a:last-child{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 40px;
+    padding: 8px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
+.navbar a:last-child:hover{
+    background-color: #fff;
+    color: #333;
+}
